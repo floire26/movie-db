@@ -29,6 +29,66 @@
       "rating": 9,
       "genreId": 1,
       "authorId": "644e4b02556a1805c48c82ca"
+    },
+    {
+      "title": "The Godfather",
+      "slug": "the-godfather",
+      "synopsis": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+      "trailerUrl": "https://www.youtube.com/watch?v=sY1S34973zA",
+      "imgUrl": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+      "rating": 9,
+      "genreId": 1,
+      "authorId": "644e4b02556a1805c48c82ca"
+    },
+    {
+      "title": "The Shawshank Redemption",
+      "slug": "the-shawshank-redemption",
+      "synopsis": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+      "trailerUrl": "https://www.youtube.com/watch?v=6hB3S9bIaco",
+      "imgUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lyQBXzOQSuE59IsHyhrp0qIiPAz.jpg",
+      "rating": 9,
+      "genreId": 2,
+      "authorId": "644e4b30556a1805c48c82cb"
+    },
+    {
+      "title": "The Godfather: Part II",
+      "slug": "the-godfather-part-ii",
+      "synopsis": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.",
+      "trailerUrl": "https://www.youtube.com/watch?v=9O1Iy9od7-A",
+      "imgUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
+      "rating": 9,
+      "genreId": 1,
+      "authorId": "644e4b02556a1805c48c82ca"
+    },
+    {
+      "title": "The Godfather",
+      "slug": "the-godfather",
+      "synopsis": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+      "trailerUrl": "https://www.youtube.com/watch?v=sY1S34973zA",
+      "imgUrl": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+      "rating": 9,
+      "genreId": 1,
+      "authorId": "644e4b02556a1805c48c82ca"
+    },
+    {
+      "title": "The Shawshank Redemption",
+      "slug": "the-shawshank-redemption",
+      "synopsis": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+      "trailerUrl": "https://www.youtube.com/watch?v=6hB3S9bIaco",
+      "imgUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lyQBXzOQSuE59IsHyhrp0qIiPAz.jpg",
+      "rating": 9,
+      "genreId": 2,
+      "authorId": "644e4b30556a1805c48c82cb"
+    },
+    {
+      "title": "The Godfather: Part II",
+      "slug": "the-godfather-part-ii",
+      "synopsis": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.",
+      "trailerUrl": "https://www.youtube.com/watch?v=9O1Iy9od7-A",
+      "imgUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
+      "rating": 9,
+      "genreId": 1,
+      "authorId": "644e4b02556a1805c48c82ca"
     }
   ]
 }
