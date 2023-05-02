@@ -1,6 +1,7 @@
 {
   "movies": [
     {
+      "id": 1,
       "title": "The Godfather",
       "slug": "the-godfather",
       "synopsis": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
@@ -11,6 +12,7 @@
       "authorId": "644e4b02556a1805c48c82ca"
     },
     {
+      "id": 2,
       "title": "The Shawshank Redemption",
       "slug": "the-shawshank-redemption",
       "synopsis": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
@@ -21,6 +23,7 @@
       "authorId": "644e4b30556a1805c48c82cb"
     },
     {
+      "id": 3,
       "title": "The Godfather: Part II",
       "slug": "the-godfather-part-ii",
       "synopsis": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.",
@@ -41,6 +44,7 @@
       "authorId": "644e4b02556a1805c48c82ca"
     },
     {
+      "id": 3,
       "title": "The Shawshank Redemption",
       "slug": "the-shawshank-redemption",
       "synopsis": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
@@ -61,6 +65,7 @@
       "authorId": "644e4b02556a1805c48c82ca"
     },
     {
+      "id": 4,
       "title": "The Godfather",
       "slug": "the-godfather",
       "synopsis": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
@@ -71,6 +76,7 @@
       "authorId": "644e4b02556a1805c48c82ca"
     },
     {
+      "id": 5,
       "title": "The Shawshank Redemption",
       "slug": "the-shawshank-redemption",
       "synopsis": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
@@ -81,6 +87,7 @@
       "authorId": "644e4b30556a1805c48c82cb"
     },
     {
+      "id": 6,
       "title": "The Godfather: Part II",
       "slug": "the-godfather-part-ii",
       "synopsis": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.",
