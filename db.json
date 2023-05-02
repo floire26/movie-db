@@ -9,7 +9,15 @@
       "imgUrl": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
       "rating": 9,
       "genreId": 1,
-      "authorId": "644e4b02556a1805c48c82ca"
+      "authorId": "644e4b02556a1805c48c82ca",
+      "Casts": [
+        {
+          "name": "Marlon Brando"
+        },
+        {
+          "name": "Al Pacino"
+        }
+      ]
     },
     {
       "id": 2,
